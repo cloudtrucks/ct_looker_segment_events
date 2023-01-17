@@ -1,5 +1,5 @@
 view: tracks {
-  sql_table_name: website.tracks_view ;;
+  sql_table_name: us_cloudtrucks_marketing_site.tracks_view ;;
 
   dimension: id {
     primary_key: yes
