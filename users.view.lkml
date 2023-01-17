@@ -1,5 +1,5 @@
 view: users {
-  sql_table_name: website.users_view ;;
+  sql_table_name: us_cloudtrucks_marketing_site.users_view ;;
 
   dimension: id {
     primary_key: yes

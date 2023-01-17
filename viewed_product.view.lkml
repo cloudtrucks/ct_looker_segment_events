@@ -1,5 +1,5 @@
 view: viewed_product {
-  sql_table_name: website.viewed_product ;;
+  sql_table_name: us_cloudtrucks_marketing_site.viewed_product ;;
 
   dimension: id {
     primary_key: yes

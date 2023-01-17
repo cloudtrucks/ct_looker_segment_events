@@ -1,5 +1,5 @@
 view: pages {
-  sql_table_name: website.pages_view ;;
+  sql_table_name: us_cloudtrucks_marketing_site.pages_view ;;
 
   dimension: id {
     primary_key: yes
